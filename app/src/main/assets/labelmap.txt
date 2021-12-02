@@ -1,0 +1,6 @@
+Aged
+Damaged
+Disease
+Diseased
+Fresh
+Insect

@@ -75,5 +75,5 @@
 - Legacy Camera Connection Fragent
 
 ## 4. **OUTPUT**
--(![alt text](C:\Users\tyagi\OneDrive\Desktop.png)
+![Fig -2 Defect Caused by Brusies](./images/.jpeg)
 

@@ -74,7 +74,6 @@
 - Detector Activity
 - Legacy Camera Connection Fragent
 
-## 4. **GUI [Graphical User Interface]**
-- Initial interface that provides a button to start the application and capture an image of the fruit.
-- The result interface will show that fruit defect classification along with the label that shows the type of detect.
+## 4. **OUTPUT**
+- ![FIG - 1 Defect caused by Insects](./images/Fig1.jpeg)
 

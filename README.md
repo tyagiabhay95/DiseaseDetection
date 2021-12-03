@@ -75,5 +75,5 @@
 - Legacy Camera Connection Fragent
 
 ## 4. **OUTPUT**
-- ![FIG - 1 Defect caused by Insects](./images/Fig1.jpeg)
+- ![FIG - 1 Defect caused by Insects](.C:\Users\tyagi\OneDrive\Desktop)
 

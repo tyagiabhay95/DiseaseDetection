@@ -75,5 +75,5 @@
 - Legacy Camera Connection Fragent
 
 ## 4. **OUTPUT**
-- ![FIG - 1 Showing Fruit's defect- Aged](.C:\Users\tyagi\OneDrive\Desktop)
+-(![alt text](C:\Users\tyagi\OneDrive\Desktop.png)
 

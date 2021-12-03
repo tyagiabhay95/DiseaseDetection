@@ -76,4 +76,5 @@
 
 ## 4. **OUTPUT**
 ![Fig -2 Defect Caused by Brusies](./screenshot/Output.jpeg)
+<img src="./screenshot/Output.jpeg" data-canonical-src="./screenshot/Output.jpeg" width="200" height="400" />
 

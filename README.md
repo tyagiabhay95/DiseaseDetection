@@ -75,6 +75,5 @@
 - Legacy Camera Connection Fragent
 
 ## 4. **OUTPUT**
-![Fig -2 Defect Caused by Brusies](./screenshot/Output.jpeg)
-<img src="./screenshot/Output.jpeg" data-canonical-src="./screenshot/Output.jpeg" width="200" height="400" />
-
+<img src="./screenshot/Output.jpeg" data-canonical-src="./screenshot/Output.jpeg" width="300" height="600"/>
+[Fig -2 Defect Caused by Aged]

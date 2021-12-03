@@ -75,5 +75,5 @@
 - Legacy Camera Connection Fragent
 
 ## 4. **OUTPUT**
-- ![FIG - 1 Defect caused by Insects](.C:\Users\tyagi\OneDrive\Desktop)
+- ![FIG - 1 Showing Fruit's defect- Aged](.C:\Users\tyagi\OneDrive\Desktop)
 

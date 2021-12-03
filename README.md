@@ -79,4 +79,4 @@
 [Fig -2 Defect Caused by Aged]
 
 ## 5 ** YOUTUBE VIDEO** 
-[![]()](https://www.youtube.com/watch?v=J1xYvCHPRQA)
+[![Fruit Defect Detecion]("./screenshot/Output.jpeg")](https://www.youtube.com/watch?v=J1xYvCHPRQA)

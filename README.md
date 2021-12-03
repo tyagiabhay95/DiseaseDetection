@@ -78,5 +78,5 @@
 <img src="./screenshot/Output.jpeg" data-canonical-src="./screenshot/Output.jpeg" width="300" height="600"/>
 [Fig -2 Defect Caused by Aged]
 
-## 5 **Tutorial VIDEO** 
+## 5 **Tutorial Video** 
 [<img src="./screenshot/video.jpeg" data-canonical-src="./screenshot/Output.jpeg" width="500" height="400"/>](https://www.youtube.com/watch?v=J1xYvCHPRQA)
